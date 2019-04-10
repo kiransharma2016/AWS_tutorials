@@ -9,3 +9,6 @@ https://read.acloud.guru/why-and-how-do-we-build-a-multi-region-active-active-ar
 
 ## VPC tutorials
 https://www.youtube.com/watch?v=LX5lHYGFcnA
+#### vpc peering interregiion 
+https://www.youtube.com/watch?v=a8tPAgx9sAQ
+
