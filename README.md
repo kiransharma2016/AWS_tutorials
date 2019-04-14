@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=LX5lHYGFcnA
 #### vpc peering interregiion 
 https://www.youtube.com/watch?v=a8tPAgx9sAQ
 
+
+## autoscalling, load balancing
+https://www.youtube.com/watch?v=bhobfyQ9SSE
