@@ -14,4 +14,5 @@ https://www.youtube.com/watch?v=a8tPAgx9sAQ
 
 
 ## autoscalling, load balancing
-https://www.youtube.com/watch?v=bhobfyQ9SSE
+https://www.youtube.com/watch?v=bhobfyQ9SSE \
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroupLifecycle.html
